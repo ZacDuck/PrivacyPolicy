@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy & Terms of Service - Tarot Public</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 20px; }
+        h1 { color: #000; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #444; margin-top: 30px; }
+        .highlight { background: #f9f9f9; padding: 15px; border-left: 5px solid #00f; margin: 20px 0; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy & Terms of Service</h1>
+
+    <div class="highlight">
+        <strong>App Purpose:</strong> This application is a strictly <u>Private Internal Tool</u> developed for personal content management. It is designed to automate the scheduling and posting process for the "Tarot Public" project.
+    </div>
+
+    <h2>1. Data Collection & Usage</h2>
+    <p>This application does not collect, store, or share any personal user data. It does not have a registration system for public users. The app only accesses the developer's own TikTok account via authorized API scopes to upload pre-rendered video content.</p>
+
+    <h2>2. Automation & API Compliance</h2>
+    <p>Our project involves a large library of original content (1500+ videos). To ensure full compliance with TikTok's API policies and to prevent any system stress, the application is programmed with a <strong>throttling mechanism</strong>. Content will be published at a slow, regulated pace to maintain platform integrity and avoid spamming behaviors.</p>
+
+    <h2>3. Content Ownership</h2>
+    <p>All videos uploaded through this app are original content owned by the developer. The app is merely a bridge to facilitate the technical delivery of this content from our secure server to our official TikTok profile.</p>
+
+    <h2>4. Third-Party Sharing</h2>
+    <p>No data is shared with third parties. No analytics or tracking codes are embedded within this application. The connection is established directly between the private server and TikTok's official Graph API endpoints.</p>
+
+    <h2>5. Contact Information</h2>
+    <p>For any inquiries regarding this internal tool, please contact the administrator at: <strong>admin@tarotpublic.com</strong></p>
+
+    <footer style="margin-top: 50px; font-size: 0.8em; color: #888;">
+        Last Updated: February 7, 2026
+    </footer>
+
+</body>
+</html>
